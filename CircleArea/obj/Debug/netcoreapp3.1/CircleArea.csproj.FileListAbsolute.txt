@@ -1,0 +1,13 @@
+C:\Users\S2Admin\source\repos\FirstApp\CircleArea\bin\Debug\netcoreapp3.1\CircleArea.exe
+C:\Users\S2Admin\source\repos\FirstApp\CircleArea\bin\Debug\netcoreapp3.1\CircleArea.deps.json
+C:\Users\S2Admin\source\repos\FirstApp\CircleArea\bin\Debug\netcoreapp3.1\CircleArea.runtimeconfig.json
+C:\Users\S2Admin\source\repos\FirstApp\CircleArea\bin\Debug\netcoreapp3.1\CircleArea.runtimeconfig.dev.json
+C:\Users\S2Admin\source\repos\FirstApp\CircleArea\bin\Debug\netcoreapp3.1\CircleArea.dll
+C:\Users\S2Admin\source\repos\FirstApp\CircleArea\bin\Debug\netcoreapp3.1\CircleArea.pdb
+C:\Users\S2Admin\source\repos\FirstApp\CircleArea\obj\Debug\netcoreapp3.1\CircleArea.csprojAssemblyReference.cache
+C:\Users\S2Admin\source\repos\FirstApp\CircleArea\obj\Debug\netcoreapp3.1\CircleArea.AssemblyInfoInputs.cache
+C:\Users\S2Admin\source\repos\FirstApp\CircleArea\obj\Debug\netcoreapp3.1\CircleArea.AssemblyInfo.cs
+C:\Users\S2Admin\source\repos\FirstApp\CircleArea\obj\Debug\netcoreapp3.1\CircleArea.csproj.CoreCompileInputs.cache
+C:\Users\S2Admin\source\repos\FirstApp\CircleArea\obj\Debug\netcoreapp3.1\CircleArea.dll
+C:\Users\S2Admin\source\repos\FirstApp\CircleArea\obj\Debug\netcoreapp3.1\CircleArea.pdb
+C:\Users\S2Admin\source\repos\FirstApp\CircleArea\obj\Debug\netcoreapp3.1\CircleArea.genruntimeconfig.cache
