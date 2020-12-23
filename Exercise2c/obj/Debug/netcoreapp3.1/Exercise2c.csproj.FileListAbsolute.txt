@@ -1,0 +1,11 @@
+C:\Users\S2Admin\source\repos\Exercise2c\Exercise2c\bin\Debug\netcoreapp3.1\Exercise2c.exe
+C:\Users\S2Admin\source\repos\Exercise2c\Exercise2c\bin\Debug\netcoreapp3.1\Exercise2c.deps.json
+C:\Users\S2Admin\source\repos\Exercise2c\Exercise2c\bin\Debug\netcoreapp3.1\Exercise2c.runtimeconfig.json
+C:\Users\S2Admin\source\repos\Exercise2c\Exercise2c\bin\Debug\netcoreapp3.1\Exercise2c.runtimeconfig.dev.json
+C:\Users\S2Admin\source\repos\Exercise2c\Exercise2c\bin\Debug\netcoreapp3.1\Exercise2c.dll
+C:\Users\S2Admin\source\repos\Exercise2c\Exercise2c\bin\Debug\netcoreapp3.1\Exercise2c.pdb
+C:\Users\S2Admin\source\repos\Exercise2c\Exercise2c\obj\Debug\netcoreapp3.1\Exercise2c.csprojAssemblyReference.cache
+C:\Users\S2Admin\source\repos\Exercise2c\Exercise2c\obj\Debug\netcoreapp3.1\Exercise2c.AssemblyInfoInputs.cache
+C:\Users\S2Admin\source\repos\Exercise2c\Exercise2c\obj\Debug\netcoreapp3.1\Exercise2c.AssemblyInfo.cs
+C:\Users\S2Admin\source\repos\Exercise2c\Exercise2c\obj\Debug\netcoreapp3.1\Exercise2c.dll
+C:\Users\S2Admin\source\repos\Exercise2c\Exercise2c\obj\Debug\netcoreapp3.1\Exercise2c.pdb
