@@ -1,0 +1,12 @@
+C:\Users\S2Admin\source\repos\FirstApp\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.exe
+C:\Users\S2Admin\source\repos\FirstApp\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.deps.json
+C:\Users\S2Admin\source\repos\FirstApp\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.runtimeconfig.json
+C:\Users\S2Admin\source\repos\FirstApp\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.runtimeconfig.dev.json
+C:\Users\S2Admin\source\repos\FirstApp\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.dll
+C:\Users\S2Admin\source\repos\FirstApp\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.pdb
+C:\Users\S2Admin\source\repos\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.csprojAssemblyReference.cache
+C:\Users\S2Admin\source\repos\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.AssemblyInfoInputs.cache
+C:\Users\S2Admin\source\repos\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.AssemblyInfo.cs
+C:\Users\S2Admin\source\repos\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.dll
+C:\Users\S2Admin\source\repos\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.pdb
+C:\Users\S2Admin\source\repos\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.csproj.CoreCompileInputs.cache
