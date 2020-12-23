@@ -1,0 +1,13 @@
+C:\Users\S2Admin\source\repos\FirstApp\CircleCircumference\bin\Debug\netcoreapp3.1\CircleCircumference.exe
+C:\Users\S2Admin\source\repos\FirstApp\CircleCircumference\bin\Debug\netcoreapp3.1\CircleCircumference.deps.json
+C:\Users\S2Admin\source\repos\FirstApp\CircleCircumference\bin\Debug\netcoreapp3.1\CircleCircumference.runtimeconfig.json
+C:\Users\S2Admin\source\repos\FirstApp\CircleCircumference\bin\Debug\netcoreapp3.1\CircleCircumference.runtimeconfig.dev.json
+C:\Users\S2Admin\source\repos\FirstApp\CircleCircumference\bin\Debug\netcoreapp3.1\CircleCircumference.dll
+C:\Users\S2Admin\source\repos\FirstApp\CircleCircumference\bin\Debug\netcoreapp3.1\CircleCircumference.pdb
+C:\Users\S2Admin\source\repos\FirstApp\CircleCircumference\obj\Debug\netcoreapp3.1\CircleCircumference.csprojAssemblyReference.cache
+C:\Users\S2Admin\source\repos\FirstApp\CircleCircumference\obj\Debug\netcoreapp3.1\CircleCircumference.AssemblyInfoInputs.cache
+C:\Users\S2Admin\source\repos\FirstApp\CircleCircumference\obj\Debug\netcoreapp3.1\CircleCircumference.AssemblyInfo.cs
+C:\Users\S2Admin\source\repos\FirstApp\CircleCircumference\obj\Debug\netcoreapp3.1\CircleCircumference.csproj.CoreCompileInputs.cache
+C:\Users\S2Admin\source\repos\FirstApp\CircleCircumference\obj\Debug\netcoreapp3.1\CircleCircumference.dll
+C:\Users\S2Admin\source\repos\FirstApp\CircleCircumference\obj\Debug\netcoreapp3.1\CircleCircumference.pdb
+C:\Users\S2Admin\source\repos\FirstApp\CircleCircumference\obj\Debug\netcoreapp3.1\CircleCircumference.genruntimeconfig.cache
